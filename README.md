@@ -5,9 +5,7 @@
 ![powered-by-smile](https://user-images.githubusercontent.com/72017185/211312961-99e82714-5a9b-4be1-b6d4-69ab4c757f86.svg)
 
 <br/>
-
 <h2 align="center">[ Skill ]</h2>
-
 <br/>
 
 ![c++](https://user-images.githubusercontent.com/72017185/211315386-3677f54c-8e33-4ea2-b3e2-b61b59928365.svg)
