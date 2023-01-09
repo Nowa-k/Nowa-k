@@ -12,9 +12,5 @@
 ![javascript](https://user-images.githubusercontent.com/72017185/211315338-4515d9b1-a7ee-424e-81a4-e04045c129ea.svg)
 
 <p align="center">
-
-  
-![html-_-css](https://user-images.githubusercontent.com/72017185/211315068-f84e9f4d-e23e-4d64-81fb-0a8c9fe803eb.svg)
-
-  
+  <img src="https://user-images.githubusercontent.com/72017185/211315068-f84e9f4d-e23e-4d64-81fb-0a8c9fe803eb.svg"/>
  </p>
