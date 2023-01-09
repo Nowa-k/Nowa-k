@@ -6,11 +6,7 @@
 
 <br/>
 
-<p align="center">
-
-  [ Skill ]
-
-</p>
+<h1 align="center">[ Skill ]</h1>
 
 <br/>
 
