@@ -6,9 +6,7 @@
 
 <br/>
 
-# The largest heading
-## The second largest heading
-###### The smallest heading
+<p style="color:red"> [ Skill ] </p>
 
 <br/>
 
