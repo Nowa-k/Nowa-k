@@ -11,7 +11,10 @@
 <br/>
 
 
-<img align="center" src="![c++](https://user-images.githubusercontent.com/72017185/211315386-3677f54c-8e33-4ea2-b3e2-b61b59928365.svg)"/>
+<p align="center">![c++](https://user-images.githubusercontent.com/72017185/211315386-3677f54c-8e33-4ea2-b3e2-b61b59928365.svg)"</p>
+
+
+<br/>
 
 
 ![c](https://user-images.githubusercontent.com/72017185/211315364-8427c49f-bcdc-43bd-9e7d-79881290edc3.svg)
