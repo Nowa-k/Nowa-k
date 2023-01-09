@@ -5,7 +5,7 @@
 ![powered-by-smile](https://user-images.githubusercontent.com/72017185/211312961-99e82714-5a9b-4be1-b6d4-69ab4c757f86.svg)
 
 <br/>
-_[ Skill ]_
+__[ Skill ]__
 <br/>
 
 
