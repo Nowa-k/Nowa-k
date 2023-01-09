@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 <br/>
-
-![powered-by-water(1)](https://user-images.githubusercontent.com/72017185/211311061-35e4d3d1-b4a6-4f90-957f-68bad39fb70c.svg)
-![build-with-segfault](https://user-images.githubusercontent.com/72017185/211323133-6788cc0c-d748-411f-93c6-4a890a73d913.svg)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72017185/211311061-35e4d3d1-b4a6-4f90-957f-68bad39fb70c.svg"/>
+  <img src="https://user-images.githubusercontent.com/72017185/211323133-6788cc0c-d748-411f-93c6-4a890a73d913.svg"/>
+ </p>
 <h2 align="center">[ Skill ]</h2>
 <br/>
 <p align="center">
