@@ -6,7 +6,7 @@
 
 <br/>
 
-<h1 align="center">[ Skill ]</h1>
+<p align="center">[ Skill ]</p>
 
 <br/>
 
