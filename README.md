@@ -10,9 +10,7 @@
 
 <br/>
 
-
-<p align="center">![c++](https://user-images.githubusercontent.com/72017185/211315386-3677f54c-8e33-4ea2-b3e2-b61b59928365.svg)"</p>
-
+<p align="center"><src="https://user-images.githubusercontent.com/72017185/211315386-3677f54c-8e33-4ea2-b3e2-b61b59928365.svg"></p>
 
 <br/>
 
